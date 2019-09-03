@@ -1,0 +1,30 @@
+{
+  "name": "poc-service",
+  "version": "1.0.0",
+  "description": "Service for React.js and Vue.js proof of concept",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "nodemon": "^1.17.2",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5",
+    "ws": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "start-dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/progressa/poc-service.git"
+  },
+  "keywords": [
+    "poc-service"
+  ],
+  "author": "ryan rivera",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/progressa/poc-service#readme"
+}
