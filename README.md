@@ -1,4 +1,4 @@
-# POC-Service
+# Loan Management Service
 
 Service for React.js and Vue.js proof of concept
 
